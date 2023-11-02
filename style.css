@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .dati {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  
+  div {
+    display: block;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .container .top {
+    height: 50px;
+    background-color: aqua;
+    padding: 10px 0;
+  }
+  
+  .logo {
+    background-color: orange;
+    border: 1px dashed black;
+    width: calc((100% / 6) * 1);
+  }
+  
+  .link {
+    background-color: orange;
+    border: 1px dashed black;
+    width: calc((100% / 6) * 4);
+  }
+  
+  .login {
+    background-color: orange;
+    border: 1px dashed black;
+    width: calc((100% / 6) * 1);
+  }
+  
+  .menu {
+    background-color: darkblue;
+    height: 400px;
+    padding: 30px 180px;
+  }
+  
+  .pink1 {
+    background-color: pink;
+    height: 340px;
+  }
+  
+  .blue-pink2 {
+    padding: 30px 0 0 100px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .blue {
+    background-color: lightskyblue;
+    height: 340px;
+    width: calc((100% / 2) + 100px);
+  }
+  
+  .pink2 {
+    background-color: pink;
+    height: 340px;
+    width: calc((100% / 2) - 200px);
+  }
+  
+  .blue-pink3 {
+    padding: 30px 0 0 100px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightgray;
+  }
+  
+  .green1 {
+    background-color: lightgrey;
+    height: 700px;
+    padding: 30px 100px 0 100px;
+  }
+  
+  .green2 {
+    background-color: green;
+    height: 640px;
+  }
+  
+  .schede {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darkslategrey;
+    height: 430px;
+    padding: 10px 100px 0 100px;
+  }
+  
+  .palevioletred {
+    background-color: palevioletred;
+    height: 380px;
+    width: calc(100% / 3);
+    border: 1px dashed black;
+  }
+  
+  .darkcyan {
+    background-color: darkcyan;
+    height: 380px;
+    width: calc(100% / 6);
+    border: 1px dashed white;
+  }
+  
+  hr {
+    color: white;
+  }
+  
+  .darkcyan1 {
+    background-color: darkslategrey;
+    padding: 10px 100px 0 100px;
+  }
+  
+  .abisso {
+    background-color: darkslategrey;
+    padding: 10px 100px 0 100px;
+  }
+  
+  .final {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+    height: 50px;
+    width: 100%;
+    padding: 16px 0;
+    position: relative;
+  }
+  
+  .Logo2 {
+    background-color: pink;
+    height: 20px;
+    border: 1px dashed black;
+  }
+  
+  .Bottone {
+    background-color: pink;
+    height: 20px;
+    border: 1px dashed black;
+    margin-left: 912.36px;
+  }
